@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandresh</h1>
 <h3 align="center">A programmer who vibes while coding</h3>
-Heyy! I'm Chandresh Adapa,just a regular CS student who is currently trying to survive junior year 😅🎓
+Heyy! I'm Chandresh Adapa,just a regular CS student who is currently trying to survive junior year 😅🎓<br/>
 
 🧠 Most of my brain is busy figuring out DSA, fixing bugs I created, and building stuff that actually works (sometimes).  
 💻 I’m grinding hard for SWE internships (Bigtech's, I’m looking at you 👀) while making side projects I can flex on my resume.  
