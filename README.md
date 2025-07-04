@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chandresh</h1>
 <h3 align="center">A programmer who vibes while coding</h3>
-Hey there! I'm **Chandresh Adapa**, a Computer Science student at Northwest Missouri State University, currently entering my junior year 🎓.<br><br>🛠️ I’m passionate about building **clean, functional software** and always exploring new tools & tech to level up my skills.  <br>💡 These days, I’m focused on mastering **Data Structures & Algorithms**, building personal projects, and preparing for **SWE internships at top tech companies** 💻  <br>🏋️‍♂️ When I’m not coding, you’ll find me at the gym or smashing birdies on the **badminton court**!<br>
+Heyy! I'm Chandresh Adapa,just a regular CS student who is currently trying to survive junior year 😅🎓
+
+🧠 Most of my brain is busy figuring out DSA, fixing bugs I created, and building stuff that actually works (sometimes).  
+💻 I’m grinding hard for SWE internships (Bigtech's, I’m looking at you 👀) while making side projects I can flex on my resume.  
+🏋️‍♂️ When I'm not coding, You can find me at the gym or smashing birdies on the badminton court 🏸
+
+Let’s build cool stuff, break things, and learn on the way 🚀
+
 
 
 ## 🌐 Socials:
