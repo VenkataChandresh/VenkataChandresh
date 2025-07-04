@@ -3,13 +3,14 @@
 
 ---
 
-Heyy! I'm **Chandresh Adapa**, just a regular CS student who is currently trying to survive junior year 😅🎓
+Heyy! I'm **Chandresh Adapa**, just a regular CS student trying to survive junior year 😅🎓
 
 🧠 Most of my brain is busy figuring out **DSA**, fixing bugs I created, and building stuff that actually works (sometimes).  
-💻 I’m grinding hard for **SWE internships** (Big Techs, I’m looking at you 👀) while making side projects I can flex on my resume.  
+💻 Grinding hard for **SWE internships** (Big Techs, I’m lookin’ at you 👀) while cooking up side projects to flex on my resume 💪  
 🏋️‍♂️ When I'm not coding, you’ll find me at the **gym** or smashing birdies on the **badminton court** 🏸
 
 Let’s build cool stuff, break things, and learn on the way 🚀
+
 
 
 
